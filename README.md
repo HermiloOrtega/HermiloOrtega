@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Hermilo Ortega — Senior Software Engineer | Microsoft Stack Expert | IT Manager
+# 👋 Hi, I'm Hermilo Ortega 
+## Senior Software Engineer | Microsoft Stack Expert | IT Manager
 
 ## 🧭 Professional Summary
 
