@@ -1,56 +1,45 @@
-# 👋 Hello, I'm Hermilo Ortega — Software Engineer | Full-Stack Developer | IT Manager
+# 👋 Hi, I'm Hermilo Ortega — Senior Software Engineer | Microsoft Stack Expert | IT Manager
 
-## 🧭 About Me
-I'm a full-stack software engineer with strong expertise in C#, .NET, SQL Server, and enterprise architecture. I specialize in designing and building robust, secure, and scalable systems for internal business operations — with deep hands-on experience in project ownership, stakeholder communication, and enterprise deployment.
+## 🧭 Professional Summary
 
-Starting as an intern, I rapidly progressed to lead complex systems on my own, designing full-stack applications, defining data models, implementing secure access, and optimizing legacy systems across critical business domains. Today, I’m focused on developing enterprise-grade solutions that align technology with real-world business impact — and I’m ready to bring that skillset to Microsoft.
+I'm a Senior Software Engineer and IT Manager with 10+ years of experience designing scalable, secure, and high-performance software using the Microsoft technology stack. I specialize in full-stack enterprise development and systems integration using C#, ASP.NET, SQL Server, Azure, and Power Platform. I build mission-critical tools that drive operational software solutions and align IT systems with business goals.
 
----
-
-## 💻 Tech Stack & Tools
-
-**Languages & Frameworks:**  
-- C#, .NET Framework, ASP.NET Core  
-- JavaScript, jQuery  
-- HTML, CSS  
-- Visual Basic (legacy systems)  
-
-**Databases & Storage:**  
-- SQL Server (T-SQL, Stored Procedures, Views, Indexing)  
-- Azure SQL (in progress)  
-
-**DevOps & Deployment:**  
-- IIS, Windows Services  
-- Task Scheduler  
-- GitHub (Version Control), Git  
-
-**Reporting & Visualization:**  
-- Crystal Reports  
-- Power BI (dashboards, analytics)  
-
-**Other Tools:**  
-- Adobe Photoshop (UI design assets, manuals)  
-- Visual Studio  
-- Postman  
+Having led engineering efforts across multi-company environments, I bring a deep understanding of technical architecture, DevOps, secure infrastructure, and cross-functional collaboration. I’m passionate about solving real-world problems through technology and am focused on building systems that are resilient, maintainable, and impactful.
 
 ---
 
-## 🧱 Featured Projects
+## 🛠 Tech Stack
 
-### 📦 SICAP
-An enterprise-grade estimation and contract tracking system for construction projects. Migrated from a Visual FoxPro legacy system to a C# + SQL Server platform, featuring SAP TXT import integration, dynamic workflow logic, a ribbon-style UI, and multi-environment support (DEV, QAS, PRD).
+**Languages & Frameworks**  
+- C#, .NET Core / .NET Framework  
+- ASP.NET MVC / Web API / Razor  
+- JavaScript, jQuery, HTML5, CSS3  
 
-### 🔄 SICAP Updater
-A system tray app that automates scheduled database updates for SICAP Web. Built in C#, it uses encrypted SQL Server connections, robust error logging, and Windows Task Scheduler integration.
+**Cloud & DevOps**  
+- Microsoft Azure (App Services, Logic Apps, Azure SQL, AAD)  
+- Azure DevOps, GitHub Actions, CI/CD, PowerShell  
 
-### 🌐 SICAP Web
-A front-end KPI and estimation dashboard designed for executive review. Connected to pre-aggregated SQL views via the SICAP Updater, this WinForms+Web hybrid supports weekly operational analysis.
+**Databases & Reporting**  
+- SQL Server, Azure SQL, T-SQL  
+- Entity Framework, Stored Procedures  
+- Crystal Reports, Power BI  
 
-### 📘 Corporate Benefits Hub
-An intranet portal for employees to access company-offered perks. Developed front-end features, UI enhancements, and a Flash-based “book viewer” to simulate interactive browsing — my first step into frontend engineering.
+**Architecture & Patterns**  
+- REST / OData APIs  
+- Monolithic & Modular Design Patterns  
+- Clean Architecture, RBAC Security, DR & Compliance  
 
-### 🧑‍🏫 TeacherHub
-A comprehensive Windows Forms system to manage teacher records, built for a private school as part of my university service. Features a full CRUD interface, secure login, and scalable data schema.
+**Productivity & Automation**  
+- Power Platform (Power Automate, Power BI)  
+- IIS, Windows Services, Windows Task Scheduler  
 
-## 📫 Let’s Connect
-- 💼 [[LinkedIn Profile](https://www.linkedin.com/in/hermiloortega/)]  
+**Certifications**  
+- Microsoft Certified: Azure Fundamentals  
+- Microsoft Certified: AI, Data, Security, Power Platform Fundamentals  
+- Oracle Certified Java SE Programmer  
+
+---
+
+## 📫 Contact Me  
+- 💼 [LinkedIn]([#](https://www.linkedin.com/in/hermiloortega/))  
+- 📍 Vancouver, BC, Canada  
