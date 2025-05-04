@@ -3,7 +3,7 @@
 
 ## Senior Full-Stack Software Engineer | IT Manager | Microsoft Stack Expert
 
-I'm a passionate and results-driven software engineer with extensive experience building scalable systems, web applications, and internal platforms using Microsoft technologies and modern web stacks. From enterprise software in C# and ASP.NET to high-impact business automations in Power Platform and full WordPress e-commerce builds—my focus is creating elegant, efficient, and secure systems that align with business needs.
+Passionate and results-driven software engineer with extensive experience building scalable systems, web applications, and internal platforms using Microsoft technologies and modern web stacks. From enterprise software in C# and ASP.NET to high-impact business automations in Power Platform and full WordPress e-commerce builds—my focus is creating elegant, efficient, and secure systems that align with business needs.
 
 📍 Vancouver, BC | 🌐 [hermiloortega.com](https://hermiloortega.com)
 
@@ -96,19 +96,20 @@ I'm a passionate and results-driven software engineer with extensive experience 
 
 ---
 
-### 🏗️ Featured Projects
+### 🚀 Highlighted Projects
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **[SICAP]([https:/](https://github.com/HermiloOrtega/SICAP))** | Estimation & contract system for 1,000+ employees | C#, SQL Server, Crystal Reports |
-| **CEA / CEA Web / CEA Offline** | Multi-platform approval and presentation system | WinForms, Web, Crystal Reports |
-| **SIA / Petty Cash / Materials** | Enterprise procurement modules | WinForms, SQL Server |
-| **System Admin Panel** | Live bug tracker and error dashboard across systems | C#, SQL Server |
-| **JUCOD e-Commerce** | 7+ client-facing WooCommerce stores | WordPress, PHP, Elementor |
-| **Virani** | Luxury real estate MLS system with API customization | PHP, WordPress, MySQL |
-| **CoronaRace** | 2D JavaFX game simulating virus avoidance | Java, JavaFX |
-| **HermiloOrtega.com** | React-based personal portfolio | React, JS, GitHub Pages |
-
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Quattrofy** | A full-stack enterprise web app built for internal reporting and operational modules (Employee, Equipment, Projects, Purchase Orders, Forecast, Cashflow, etc). Used across multiple departments at Quattro Constructors. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |
+| **QuattroMan (Copilot)** | An internal AI agent using Microsoft Copilot Studio integrated with Power Automate and APIs to automate tasks and respond to employee queries in MS Teams and web. | ![Copilot Studio](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?style=flat-square&logo=Microsoft-Power-Automate&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
+| **SICAP** | Legacy ERP modernization with WinForms and SQL Server. Migrated Visual FoxPro modules and implemented secure multi-role access and reporting with Crystal Reports. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-000000?style=flat-square) |
+| **CoronaRace** | 2D game built with JavaFX to promote health awareness. Featured life/health mechanics, game physics, and multi-object collision logic. | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-5586A4?style=flat-square) |
+| **SIA** | Master application integrating warehouse, procurement, and project tools. Introduced multi-step material testing workflows with real-time dashboards. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **CEA** | Approval workflow system for high-value purchases at a corporate level. Integrated digital sessions, signatures, and director-level tracking. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Virani Real Estate** | Fully customized MLS-integrated real estate website using Realtyna plugin and custom PHP for high-performance property search. | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **BeoCanada / Integration B&O** | High-traffic showcase website for Bang & Olufsen product integrations. Developed in WordPress/Webflow with luxury branding. | ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
+| **Mr. Cachuchero** | E-commerce store built with WooCommerce. Handled full-cycle dev including payments, shipping, marketing, and SEO. | ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) |
+| **HermiloOrtega.com** | Personal React portfolio site showcasing all projects, experience, and resume. Fully customized from a premium template. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 ➡️ **[See All Projects →](#)**
 
 ---
