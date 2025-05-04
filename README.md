@@ -1,8 +1,9 @@
 
 # 👋 Hello, I'm Hermilo Ortega
 
-## Senior Software Engineer | Full Stack Developer | IT Manager  
-**Focused on building scalable enterprise apps, IT systems, and elegant software solutions using Microsoft technologies.**
+## Senior Full-Stack Software Engineer | IT Manager | Microsoft Stack Expert
+
+I'm a passionate and results-driven software engineer with extensive experience building scalable systems, web applications, and internal platforms using Microsoft technologies and modern web stacks. From enterprise software in C# and ASP.NET to high-impact business automations in Power Platform and full WordPress e-commerce builds—my focus is creating elegant, efficient, and secure systems that align with business needs.
 
 📍 Vancouver, BC | 🌐 [hermiloortega.com](https://hermiloortega.com)
 
@@ -19,24 +20,79 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & 
 
-**Languages & Frameworks**
+## 🛠️ Tech Stack Overview
 
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### **Languages & Frameworks**
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?logo=visualstudio&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge)
 
-**Microsoft Ecosystem**
+---
 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-8A42F2?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### **Databases & Storage**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+---
+
+### **Cloud & Hosting**
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![Azure Web Services](https://img.shields.io/badge/Azure%20App%20Services-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![Deployment Slots](https://img.shields.io/badge/Deployment%20Slots-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white&style=for-the-badge)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white&style=for-the-badge)
+
+---
+
+### **DevOps & Automation**
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?logo=Microsoft%20Power%20Automate&logoColor=white&style=for-the-badge)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge)
+![Copilot Studio](https://img.shields.io/badge/Microsoft%20Copilot%20Studio-000000?logo=githubcopilot&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white&style=for-the-badge)
+
+---
+
+### **CMS & Web Builders**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white&style=for-the-badge)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white&style=for-the-badge)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?logo=elementor&logoColor=white&style=for-the-badge)
+![Beaver Builder](https://img.shields.io/badge/Beaver%20Builder-A62E18?style=for-the-badge)
+
+---
+
+### **Security & Identity**
+![Microsoft Identity](https://img.shields.io/badge/Microsoft%20Identity-00A4EF?logo=microsoft&logoColor=white&style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-1572B6?logo=auth0&logoColor=white&style=for-the-badge)
+
+---
+
+### **Analytics & Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-000000?style=for-the-badge)
+
+---
+
+### **Design & UI**
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+---
+
+### **AI & Assistants**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white&style=for-the-badge)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-000000?logo=githubcopilot&logoColor=white&style=for-the-badge)
 
 ---
 
