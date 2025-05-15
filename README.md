@@ -20,9 +20,7 @@ Passionate and results-driven software engineer with extensive experience buildi
 
 ---
 
-### 🧰 Tech Stack & 
-
-## 🛠️ Tech Stack Overview
+### 🧰 Tech Stack Overview
 
 | Category | Tools & Frameworks |
 |----------|--------------------|
