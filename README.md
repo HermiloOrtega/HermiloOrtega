@@ -50,7 +50,7 @@ Passionate and results-driven software engineer with extensive experience buildi
 | **[BeoCanada / Integration B&O](https://github.com/HermiloOrtega/Integration-Bang-and-Olufsen)** | High-traffic showcase website for Bang & Olufsen product integrations. Developed in WordPress/Webflow with luxury branding. | ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
 | **[Mr. Cachuchero](https://github.com/HermiloOrtega/Mr-Cachuchero)** | E-commerce store built with WooCommerce. Handled full-cycle dev including payments, shipping, marketing, and SEO. | ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) |
 | **[HermiloOrtega.com](https://github.com/HermiloOrtega/HermiloOrtega)** | Personal React portfolio site showcasing all projects, experience, and resume. Fully customized from a premium template. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-➡️ **[See All Projects →]([#](https://github.com/HermiloOrtega?tab=repositories))**
+➡️ **[See All Projects →](https://github.com/HermiloOrtega?tab=repositories)**
 
 ---
 
