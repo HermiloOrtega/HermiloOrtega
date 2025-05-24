@@ -1,8 +1,9 @@
+
 # 👋 Hello, I'm Hermilo Ortega
 
-## Senior Software Engineer | IT Manager | Microsoft Stack Expert
+## Senior Full-Stack Software Engineer | IT Manager | Microsoft Stack Expert
 
-Innovative and solution-focused engineer with 10+ years of experience in enterprise software development, system automation, and digital transformation. I specialize in building scalable platforms using Microsoft technologies, streamlining operations with Power Platform, and embedding real-time analytics with Power BI. I’ve led critical IT initiatives for construction, engineering, and manufacturing firms, driving efficiency and eliminating redundant third-party tools.
+Passionate and results-driven software engineer with extensive experience building scalable systems, web applications, and internal platforms using Microsoft technologies and modern web stacks. From enterprise software in C# and ASP.NET to high-impact business automations in Power Platform and full WordPress e-commerce builds—my focus is creating elegant, efficient, and secure systems that align with business needs.
 
 📍 Vancouver, BC | 🌐 [hermiloortega.com](https://hermiloortega.com)
 
@@ -10,12 +11,11 @@ Innovative and solution-focused engineer with 10+ years of experience in enterpr
 
 ### 💼 Resume Highlights
 
-- 🧠 Microsoft Certified: Azure, AI, Power Platform, Security, and Data Fundamentals
-- 🧰 Microsoft Stack: C#, .NET, ASP.NET MVC/WebAPI, SQL Server, Power BI, Power Automate
-- ☁️ Cloud & DevOps: Azure App Services, Azure SQL, Azure DevOps, GitHub Actions
-- ⚙️ Built 50+ internal tools, web apps, and automation flows across Canada and Mexico
-- 🧩 Integrated complex APIs (SAP, Acumatica, DayForce, SiteDocs, HCSS, Power BI REST)
-- 🗂️ Architected modular ERP platforms used by safety, procurement, finance & operations
+- 💻 10+ years of experience in software engineering, system integration, and enterprise development
+- 🔧 Expert in Microsoft Stack: C#, .NET, ASP.NET MVC/WebAPI, SQL Server, Azure, Power Platform
+- 🏗 Architected large-scale internal systems for enterprise clients (AHMSA, BDI Group, Epic Inspired, JUCOD)
+- 🛠 Hands-on with Visual Studio, Azure DevOps, Power Automate, Power BI, GitHub Actions
+- 🧠 Microsoft Certified in AI, Azure, Power Platform, Security, Data Fundamentals
 - 🌍 Bilingual: English 🇨🇦 & Spanish 🇲🇽
 
 ---
@@ -24,41 +24,28 @@ Innovative and solution-focused engineer with 10+ years of experience in enterpr
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **[Quattrofy](https://github.com/HermiloOrtega/Quattrofy)** | Full-stack ERP for forecasting, procurement, employee & equipment management. Embedded Power BI dashboards and automated workflows. | C#, ASP.NET MVC, SQL Server, Power BI, Azure, jQuery |
-| **[AI for Equipment Logs](https://github.com/HermiloOrtega/Quattrofy-Logs)** | Power Automate + AI Builder project to extract service data from PDFs and visualize maintenance trends in dashboards. | Power Automate, AI Builder, SharePoint, Power BI, JSON |
-| **[Safety Sync Flow](https://github.com/HermiloOrtega/Quattrofy-SafetySync)** | Flow to sync safety data from 3rd-party APIs (incidents, hazards, inspections) into Azure SQL. Powers 3 real-time Power BI dashboards. | Power Automate, REST API, Azure SQL, Power BI |
-| **[Project Costing Data Flow](https://github.com/HermiloOrtega/Quattrofy-Costs)** | Syncs equipment and labor costs via API into dashboards with force account breakdowns, trends, and budget tracking. | Power Automate, REST API, Azure SQL, Power BI |
-| **[SICAP](https://github.com/HermiloOrtega/SICAP)** | Modernized legacy Visual FoxPro system into a WinForms .NET application. Core system for contract, estimation, and KPIs. | C#, WinForms, SQL Server, Crystal Reports |
-| **[SIA](https://github.com/HermiloOrtega/SIA)** | Centralized platform for warehouse, petty cash, and material testing. Reduced Excel/email processes and added dashboards. | C#, WinForms, SQL Server, Power BI |
-| **[QuattroMan](https://github.com/HermiloOrtega/QuattroMan)** | Internal AI chatbot built with Microsoft Copilot Studio and Power Automate. Integrated with SharePoint and APIs to respond in MS Teams. | Power Automate, Copilot Studio, Microsoft Graph |
-| **[HermiloOrtega.com](https://github.com/HermiloOrtega/HermiloOrtega)** | My personal site and portfolio. Built in React, embedded resume and project showcases. | React, JavaScript, HTML/CSS |
-
-➡️ **[View all repositories →](https://github.com/HermiloOrtega?tab=repositories)**
+| **[Quattrofy](https://github.com/HermiloOrtega/Quattrofy)** | Full-stack enterprise web app used across departments for internal reporting and project operations. | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=flat-square&logoColor=white) ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?logo=.net&style=flat-square&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&style=flat-square&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) |
+| **[AI for Equipment Logs](https://github.com/HermiloOrtega/AI-Equipment-Logs)** | Automates structured PDF log extraction using AI Builder and syncs to Power BI dashboards. | ![Power Automate](https://img.shields.io/badge/Power_Automate-0089D6?logo=Microsoft-Power-Automate&style=flat-square&logoColor=white) ![AI Builder](https://img.shields.io/badge/AI_Builder-742774?logo=microsoft&style=flat-square&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&style=flat-square&logoColor=black) |
+| **[AI for Subcontractors Sheets](https://github.com/HermiloOrtega/AI-Subcontractors)** | Automates data extraction from subcontractor forms for analysis and vendor monitoring. | ![Power Automate](https://img.shields.io/badge/Power_Automate-0089D6?logo=Microsoft-Power-Automate&style=flat-square&logoColor=white) ![AI Builder](https://img.shields.io/badge/AI_Builder-742774?logo=microsoft&style=flat-square&logoColor=white) |
+| **[Safety Sync Flow](https://github.com/HermiloOrtega/Safety-Sync-Flow)** | Syncs safety reports into Azure SQL and generates real-time Power BI dashboards. | ![Power Automate](https://img.shields.io/badge/Power_Automate-0089D6?style=flat-square&logo=Microsoft-Power-Automate&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **[Equipment Data Flow](https://github.com/HermiloOrtega/Equipment-Data-Flow)** | Aggregates equipment usage and service logs from APIs into dynamic dashboards. | ![Power Automate](https://img.shields.io/badge/Power_Automate-0089D6?style=flat-square&logo=Microsoft-Power-Automate&logoColor=white) ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| **[Project Costing Data Flow](https://github.com/HermiloOrtega/Project-Costing-Flow)** | 9+ dashboards on cost tracking, labor, and equipment efficiency across projects. | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat-square&logo=postman&logoColor=white) |
+| **[SICAP](https://github.com/HermiloOrtega/SICAP)** | Windows ERP for project estimation, contract tracking, and KPI analytics. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square) ![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-000000?style=flat-square) |
+| **[SIA](https://github.com/HermiloOrtega/SIA)** | Central platform for material testing, petty cash, and procurement tracking. | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) |
+| **[QuattroMan (Copilot)](https://github.com/HermiloOrtega/QuattroMan)** | Custom AI assistant built using Copilot Studio and Power Automate for internal automation. | ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0089D6?style=flat-square&logo=Microsoft-Power-Automate&logoColor=white) |
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks**  
-C#, .NET Core, ASP.NET MVC/Web API, JavaScript, TypeScript, T-SQL, Razor, PHP, HTML5, CSS3, WinForms, Visual Basic
-
-**Cloud & DevOps**  
-Azure App Services, Azure SQL, Azure DevOps, GitHub Actions, CI/CD, IIS, Windows Server, Slot Deployment
-
-**Automation & Workflows**  
-Power Automate, Microsoft Copilot Studio, AI Builder, JSON, SharePoint, Windows Scheduled Tasks
-
-**APIs & Integration**  
-REST API, OData, OAuth2, SiteDocs API, DayForce API, HCSS HeavyJob API, Acumatica API, SAP TXT Parser
-
-**Data & Reporting**  
-SQL Server, Power BI, Crystal Reports, Excel, Power Query
-
-**Authentication & Security**  
-Microsoft Identity, Azure AD, JWT, Custom Auth, Role-Based Access Control
-
-**Tools & Platforms**  
-Visual Studio, Power BI, WordPress, Webflow, Elementor, WooCommerce, Adobe Photoshop, Canva
+| Category | Tools & Frameworks |
+|----------|--------------------|
+| **Languages & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white) |
+| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?logo=azuredevops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) |
+| **Data & Analytics** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Crystal Reports](https://img.shields.io/badge/Crystal%20Reports-000000?logo=crystalreports&logoColor=white) |
+| **Workflow & Automation** | ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?logo=microsoftpowerautomate&logoColor=white) ![AI Builder](https://img.shields.io/badge/AI%20Builder-742774?logo=microsoft&logoColor=white) |
+| **Security** | ![Microsoft Identity](https://img.shields.io/badge/Microsoft%20Identity-00A4EF?logo=microsoft&logoColor=white) ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?logo=azure-active-directory&logoColor=white) |
+| **Other Tools** | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-0052CC?logo=postman&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-000000?logo=auth0&logoColor=white) |
 
 ---
 
@@ -68,16 +55,11 @@ Visual Studio, Power BI, WordPress, Webflow, Elementor, WooCommerce, Adobe Photo
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Power Platform Fundamentals
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- Oracle Certified Java SE 6 Programmer
+- Oracle Certified: Java SE 6 Programmer
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact
 
 - 🌐 [hermiloortega.com](https://hermiloortega.com)
-- 🐱 [github.com/hermiloortega](https://github.com/hermiloortega)
-- ✉️ hermilo.jh@gmail.com
-
----
-
-> ⚡ *Let’s connect and build the future of software.*
+- 🐱 [GitHub](https://github.com/HermiloOrtega)
