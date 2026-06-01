@@ -11,7 +11,7 @@ Software Engineer Manager with 10+ years building enterprise platforms, internal
 
 ### 💼 Resume Highlights
 
-- 💻 10+ years across software engineering, system integration, and enterprise full-stack development
+- 💻 13+ years across software engineering, system integration, and enterprise full-stack development
 - 👥 Lead the internal IT Software Development team — architecture, database design, QA, and delivery
 - 🧩 Full-stack across Microsoft (C#, .NET, ASP.NET, EF Core) and modern web (React, Next.js, TypeScript, Node.js)
 - ☁️ Cloud on **Azure** and **AWS** — App Services, Functions, EC2/S3/RDS, CI/CD, and secure auth
@@ -54,9 +54,11 @@ Software Engineer Manager with 10+ years building enterprise platforms, internal
 
 #### 🆕 Recent Projects using AI
 
-- **[Microsoft Build 2026 Planner](https://github.com/HermiloOrtega/Microsoft-Build-2026-Planner)** — A personal planning tool for [Microsoft Build 2026](https://build.microsoft.com/) to browse, prioritize, and annotate conference sessions. Built as a full-stack web app.
+- **[Microsoft Build 2026 Planner](https://github.com/HermiloOrtega/Microsoft-Build-2026-Planner)** — A personal planning tool for [Microsoft Build 2026](https://build.microsoft.com/) to browse, prioritize, and annotate conference sessions. Built as a full-stack web app. Live at **[build.hermiloortega.com](https://build.hermiloortega.com/)**.
   `React · Express · MySQL`
 - **[Time Card Tracker](https://github.com/HermiloOrtega/TimeCardTracker)** — A frictionless time-tracking tool for logging work hours across multiple projects and clients. Open it, click the hour you worked, type what you did, and move on — no sign-in, no setup, no subscriptions. Just a calendar where you track your time.
+- **[HCSS License Audit](https://github.com/HermiloOrtega/HCSS-License-Audit)** — Client-side web app for auditing HCSS software licenses and generating data-driven renewal recommendations. Upload up to 5 Excel reports exported from HCSS; the app merges them, scores every user, and surfaces a prioritized renewal recommendation list — all in the browser, no server. Internal Quattro tool being considered for open source.
+  `React · TypeScript · xlsx (SheetJS) · Tailwind CSS`
 
 #### 💼 Business & Client Work (JUCOD)
 
