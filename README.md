@@ -3,7 +3,7 @@
 
 ## Software Engineer Manager | Quattro Constructors / BDI Group
 
-Software Engineer Manager with 10+ years building enterprise platforms, internal tools, and scalable automation. Expert in C#, .NET (Core & Framework), ASP.NET Web API, Entity Framework Core, TypeScript, React Native, and Node.js. I architect secure, cloud-native apps on Azure (App Services, Functions, Logic Apps), design REST APIs and SQL/EF data models, ship CI/CD pipelines, and integrate LLM-powered features—leading full-stack, cross-functional teams from architecture to deployment.
+Software Engineer Manager and Technology Lead for the **[BDI Group](https://bdicompanies.com/)**, with 13+ years building enterprise platforms, internal tools, and scalable automation. Beyond full-stack development, I oversee technology across the group's companies—driving strategy, analysis, initiatives, and tailored solutions for each business. Expert in C#/.NET, ASP.NET Web API, EF Core, TypeScript, React Native, and Node.js, building cloud-native apps on Azure and AWS with secure APIs, SQL/EF data models, and LLM features.
 
 📍 Vancouver, BC
 
